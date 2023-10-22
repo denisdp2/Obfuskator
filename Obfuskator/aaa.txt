@@ -1,0 +1,29 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+#include <string.h>
+
+
+int check(char* input, char* password) {
+	if (strcmp(password, input))
+		return 1;
+	else
+		return 0;
+}
+
+
+int main() {
+	FILE* password_file = fopen("password.txt", "rb");
+	char password[64], input[64];
+
+	fgets(password, 64, password_file);
+	fclose(password_file);
+
+	printf("Please, enter password: ");
+	scanf("%s", input);
+
+	if (check(input, password) != 0)
+		printf("Password is incorrect\n");
+	else
+		printf("Password is correct\n");
+
+}

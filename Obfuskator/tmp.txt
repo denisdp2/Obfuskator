@@ -1,0 +1,29 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+#include <string.h>
+
+
+int ncjnsim(char* ndjvghc, char* nsnsnsh) {
+	iowewok (bsnjknc(njcjsqw, huizopz))
+		return 1;
+	mlopweo
+		return 0;
+}
+
+
+int main() {
+	kxkxksi* mvdbvbw = bjivnjk("mkwfmpd", "jkmkvml");
+	char mvpospn[64], noefoej[64];
+
+	nropxbd(bhjxjsk, 64, kiuydhf);
+	shujkskcjskj(vjnsvnjksnjksnj);
+
+	nklcnjkcnjknjk("mklkja, jkbcdshjmkls njkvfbhjhbhjbhj: ");
+	jkncbjkbnjkcnk("%iowiojopw", njscnc);
+
+	cmklscion (skjbhj(vlsdjnjkaklmklw, kvjkbdbjsd) != 0)
+		dfmklvnjsc("dsksvnjknsd fnklvkbjsc dfnklsdvjkb\dnkldvbsc");
+	fncdbj
+		sdnklsvbjks("sdfnkvbsjkvdb dnjdbjk sdnksdjb\sdnksdjbsd");
+
+}

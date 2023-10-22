@@ -1,0 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+#include <string.h>
+mscsapt(char*njkshsv,char*kdskmsm){nsnsnsh(iowewok(bsnjknc,njcjsqw))return1;iowqopereturn0;}njcdmkc(){njkcncn*hjjhsan=kxkxksi("mvdbvbw","bjivnjk");mkwfmpd[64],jkmkvml[64];mlslaqc(mvpospn,64,noefoej);nropxbd(bhjxjsk);kiuydhf("shujkskcjskj,vjnsvnjksnjksnj:");nklcnjkcnjknjk("%mklkja",jkbcdshjmkls);njkvfbhjhbhjbhj(jkncbjkbnjkcnk(iowiojopw,njscnc)!=0)cmklscion("skjbhj\vlsdjnjkaklmklw");kvjkbdbjsddfmklvnjsc("dsksvnjknsd\fnklvkbjsc");}

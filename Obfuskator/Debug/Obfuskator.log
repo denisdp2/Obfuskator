@@ -1,0 +1,8 @@
+﻿  Obfuskator.c
+C:\Users\den-p\source\repos\Obfuskator\Obfuskator\Obfuskator.c(219,28): warning C4098: scan_names: функция типа "void", возвращающая значение
+C:\Users\den-p\source\repos\Obfuskator\Obfuskator\Obfuskator.c(236,28): warning C4098: change_names: функция типа "void", возвращающая значение
+C:\Users\den-p\source\repos\Obfuskator\Obfuskator\Obfuskator.c(241,28): warning C4098: change_names: функция типа "void", возвращающая значение
+C:\Users\den-p\source\repos\Obfuskator\Obfuskator\Obfuskator.c(246,28): warning C4098: change_names: функция типа "void", возвращающая значение
+C:\Users\den-p\source\repos\Obfuskator\Obfuskator\Obfuskator.c(303,28): warning C4098: del_space: функция типа "void", возвращающая значение
+C:\Users\den-p\source\repos\Obfuskator\Obfuskator\Obfuskator.c(309,36): warning C4244: функция: преобразование "unsigned __int64" в "size_t", возможна потеря данных
+  Obfuskator.vcxproj -> C:\Users\den-p\source\repos\Obfuskator\Debug\Obfuskator.exe
